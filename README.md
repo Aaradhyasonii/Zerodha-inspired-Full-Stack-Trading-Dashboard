@@ -50,6 +50,7 @@ Zerodha-inspired-Full-Stack-Trading-Dashboard/
 ```
 git clone https://github.com/<your-username>/Zerodha-inspired-Full-Stack-Trading-Dashboard.git
 cd Zerodha-inspired-Full-Stack-Trading-Dashboard
+```
 
 
 2. **Install Backend Dependencies**
