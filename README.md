@@ -30,7 +30,7 @@ This project is developed as a learning exercise for **full stack web developmen
 ---
 
 ## 📂 Project Structure
-
+```
 Zerodha-inspired-Full-Stack-Trading-Dashboard/
 │
 ├── backend/        # Node.js + Express.js backend
@@ -38,6 +38,7 @@ Zerodha-inspired-Full-Stack-Trading-Dashboard/
 ├── frontend/       # Main landing page UI
 ├── package.json    # Dependencies
 └── README.md       # Project documentation
+```
 
 
 ---
