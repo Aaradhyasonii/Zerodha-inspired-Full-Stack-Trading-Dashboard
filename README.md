@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f501abf-26a9-4f66-93e5-c8ce53a7bbe0" /># 📊 Zerodha-Inspired Full Stack Trading Dashboard
+# 📊 Zerodha-Inspired Full Stack Trading Dashboard
 
 A **full stack trading dashboard** inspired by [Zerodha](https://zerodha.com/), built to simulate stock tracking, portfolio management, and a responsive trading interface.  
 This project is developed as a learning exercise for **full stack web development**, covering both frontend and backend integration.
