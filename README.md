@@ -33,11 +33,11 @@ This project is developed as a learning exercise for **full stack web developmen
 
 Zerodha-inspired-Full-Stack-Trading-Dashboard/
 │
-├── backend/ # Node.js + Express.js backend
-├── dashboard/ # React or HTML-based trading dashboard UI
-├── frontend/ # Main landing page UI
-├── package.json # Dependencies
-└── README.md # Project documentation
+├── backend/        # Node.js + Express.js backend
+├── dashboard/      # React or HTML-based trading dashboard UI
+├── frontend/       # Main landing page UI
+├── package.json    # Dependencies
+└── README.md       # Project documentation
 
 
 ---
@@ -47,43 +47,37 @@ Zerodha-inspired-Full-Stack-Trading-Dashboard/
 1. **Clone the Repository**
 ```bash
 
-```
-git clone https://github.com/<your-username>/Zerodha-inspired-Full-Stack-Trading-Dashboard.git
-cd Zerodha-inspired-Full-Stack-Trading-Dashboard
-```
+```git clone https://github.com/<your-username>/Zerodha-inspired-Full-Stack-Trading-Dashboard.git
+cd Zerodha-inspired-Full-Stack-Trading-Dashboard```
 
 
 2. **Install Backend Dependencies**
 ```bash
 
-```
-cd backend
-npm install
+```cd backend
+npm install```
 
 3. **Install Frontend Dependencies**
 ```bash
 
-```
-cd ../frontend
-npm install
+```cd ../frontend
+npm install```
 
 4. **Set Up Environment Variables
 Create a .env file inside backend/ and add:**
 ```bash
 
-```
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
+```MONGO_URI=your_mongodb_connection_string
+PORT=5000```
 
 4. **Run the Application**
 ```bash
 
-```
-cd backend
-npm start
+```cd backend
+npm start```
 
-cd ../frontend
-npm start
+```cd ../frontend
+npm start```
 
 
 ---
