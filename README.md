@@ -1,4 +1,4 @@
-# 📊 Zerodha-Inspired Full Stack Trading Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f501abf-26a9-4f66-93e5-c8ce53a7bbe0" /># 📊 Zerodha-Inspired Full Stack Trading Dashboard
 
 A **full stack trading dashboard** inspired by [Zerodha](https://zerodha.com/), built to simulate stock tracking, portfolio management, and a responsive trading interface.  
 This project is developed as a learning exercise for **full stack web development**, covering both frontend and backend integration.
@@ -87,4 +87,20 @@ npm start
 
 If you want, I can now give you the **full updated README.md** file with these commands already integrated so you can directly paste it into your repository without editing.  
 Do you want me to do that?
+
+
+## 🤝 Contributing
+Contributions are welcome!
+If you’d like to improve this project:
+
+Fork the repo
+
+Create a new branch
+
+Commit changes
+
+Submit a pull request
+
+## 📜 License
+This project is for educational purposes only and is not affiliated with or endorsed by Zerodha.
 
