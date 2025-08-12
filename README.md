@@ -85,10 +85,6 @@ npm start
 
 ---
 
-If you want, I can now give you the **full updated README.md** file with these commands already integrated so you can directly paste it into your repository without editing.  
-Do you want me to do that?
-
-
 ## 🤝 Contributing
 Contributions are welcome!
 If you’d like to improve this project:
